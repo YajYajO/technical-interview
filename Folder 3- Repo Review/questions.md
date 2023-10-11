@@ -1,5 +1,5 @@
-**Question 1**: How does this app work, what is the logic (you can insert a diagram)?
+**Question 1**: Where are new users redirected to when they first launch the app?
 
 
 
-**Question 2**: Comment the code
+**Question 2**: What happens to the user's screen upon a successful NFC read?
