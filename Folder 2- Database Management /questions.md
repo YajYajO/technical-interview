@@ -1,5 +1,6 @@
-**Question 1**: Based on the database images, give a brief explanation of the data structure (you can instert a diagram)
+**Question 1**: Translate this description into a database design. You may write or draw it out.
 
 
 
-**Question 2**: Why pick a NoSQL for nagimo?
+**Question 2**: We use Firestore (NoSQL) to store our application data, why do you think that is? Give a brief explanation.
+
