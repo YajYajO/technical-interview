@@ -1,0 +1,6 @@
+Where are new users redirected to when they first launch the app?
+The user is first checked to see if their device "supports NFC." The user is then directed to go to settings to enable NFC.
+
+
+What happens to the user's screen upon a successful NFC read?
+They are given a button to press that says "Identify Climb"
