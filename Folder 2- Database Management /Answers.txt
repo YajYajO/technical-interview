@@ -1,0 +1,26 @@
+Answer the following questions based on our company description:
+
+Translate this description into a database design. You may write or draw it out.
+Climbers:
+  -ID
+  -Name 
+  -Email
+  -Password
+  -Sessions
+  -Prefered Difficulty
+  -Preferred Gym
+
+Managers:
+  -Id
+  -Name
+  -Email
+  -Password 
+  -Assocaiated Gym
+
+Gyms:
+  -Walls(Number, Difficulty, Number of people going to wall)
+  People going
+
+
+We use Firestore (NoSQL) to store our application data, why do you think that is? Give a brief explanation.
+NoSQL allows for real time updates which is highly crucial for live time updates with a simple data management system. NoSQL also high highly dependable scalability which is needed due to the apps projected growth.
